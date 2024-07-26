@@ -19,3 +19,5 @@ class Solution:
                     test(a, c)
         
         return num_islands
+
+
